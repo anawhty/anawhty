@@ -31,6 +31,6 @@
 
 --------------------------------------
 
-<a href="https://instagra.com/anawhty">
+<a href="https://instagram.com/anawhty">
   <img align="left" alt="Ana's Instagram" width="20px" src="https://simpleicons.vercel.app/instagram/6366f1" />
 </a>

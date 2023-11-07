@@ -1,6 +1,6 @@
 <p align='center'>
-  <b>Hi 👋, I'm Lion</b><br>
-  <a href="https://instagram.com/@anawhty/">Instagram</a> |
+  <b>Hi 👋, I'm Ana </b><br>
+  <a href="https://instagram.com/anawhty/">Instagram</a> |
   <a href="https://www.youtube.com/channel/UCQpRUttKZN9Pn9-Pq-xt0jQ">YouTube</a> |
   <a href="https://www.tiktok.com/@anawhty">TikTok</a> |
    <a href="https://bio.site/anaz">Web</a> 

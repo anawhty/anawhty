@@ -1,9 +1,6 @@
 <p align='center'>
   <b>Hi 👋, I'm Ana </b><br>
-  <a href="https://instagram.com/anawhty/">Instagram</a> |
-  <a href="https://www.youtube.com/channel/UCQpRUttKZN9Pn9-Pq-xt0jQ">YouTube</a> |
-  <a href="https://www.tiktok.com/@anawhty">TikTok</a> |
-   <a href="https://bio.site/anaz">Web</a> 
+  
 
 
 
@@ -33,4 +30,13 @@
 
 <a href="https://instagram.com/anawhty">
   <img align="left" alt="Ana's Instagram" width="20px" src="https://simpleicons.vercel.app/instagram/6366f1" />
+</a>
+<a href="https://twitch.com/anawhty">
+  <img align="left" alt="Ana's Twitch" width="20px" src="https://simpleicons.now.sh/twitch/6366f1" />
+</a>
+<a href="https://www.tiktok.com/@anawhty/">
+  <img align="left" alt="Ana's Tiktok" width="20px" src="https://simpleicons.vercel.app/tiktok/6366f1" />
+</a>
+<a href="https://www.youtube.com/channel/UCQpRUttKZN9Pn9-Pq-xt0jQ">
+  <img align="left" alt="Ana's Youtube" width="20px" src="https://simpleicons.vercel.app/youtube/6366f1" />
 </a>

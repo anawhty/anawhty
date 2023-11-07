@@ -9,9 +9,7 @@
 
 ```py
 
-◦ Invejoos sai do meu pé!
-
-◦ Ana @github
+◦ Narcissism
 
 ```
 ```csharp

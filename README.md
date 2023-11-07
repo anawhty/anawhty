@@ -9,7 +9,7 @@
 ◦ Narcissism
 
 ```
-```csharp
+```cpp
 
 • 🤖 Software Automation.
 • 👨🏻‍💻 Learning Web development.

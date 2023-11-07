@@ -4,12 +4,12 @@
 
 
 
-```cpp
+```py
 
 ◦ Narcissism
 
 ```
-```cpp
+```csharp
 
 • 🤖 Software Automation.
 • 👨🏻‍💻 Learning Web development.

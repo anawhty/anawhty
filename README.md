@@ -40,6 +40,6 @@
 <a href="https://www.youtube.com/channel/UCQpRUttKZN9Pn9-Pq-xt0jQ">
   <img align="left" alt="Ana's Youtube" width="20px" src="https://simpleicons.vercel.app/youtube/6366f1" />
 </a>
-<a href="https://discord.com/users/505699013950046208">
+<a href="https://discord.com/users/258120501140914186">
   <img align="left" alt="Ana's Discord" width="20px" src="https://simpleicons.vercel.app/discord/6366f1" />
 </a>

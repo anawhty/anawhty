@@ -24,7 +24,7 @@
 
 --------------------------------------
 										
- <p align="center"> Ily Infrator
+ <p align="center"> Self Destruction
 
 --------------------------------------
 

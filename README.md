@@ -18,9 +18,8 @@
 ```
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/9b/4b/95/9b4b951a1ac9f37ce68806c31db627af.gif" width="540">
+  <img src="https://github.com/user-attachments/assets/6c736ee7-f256-4277-9acc-f711e798d8b7" alt="GIF Centralizado">
 </div>
-
 
 --------------------------------------
 										
@@ -57,3 +56,4 @@
     </td>
   </tr>
 </table>
+

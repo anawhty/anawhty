@@ -13,7 +13,7 @@
 
 • 🤖 Software Automation.
 • 👨🏻‍💻 Learning Web development.
-• 🌟 Main languages: C# and C++.
+• 🌟 Main languages: C# and C++, JS & Python.
 ```
 
 <div align="center">

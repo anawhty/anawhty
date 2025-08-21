@@ -6,7 +6,7 @@
 
 ```py
 
-◦ Narcissism
+◦ Sigo em paz por que aquele que me proteje é maior que toda maldade
 
 ```
 ```csharp
@@ -18,7 +18,7 @@
 ```
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6c736ee7-f256-4277-9acc-f711e798d8b7" alt="GIF Centralizado">
+  <img src="https://media.discordapp.net/attachments/1407877456916123788/1407877476247535686/3ba6caa080d1df521b36b08a89f5c21b.jpg?ex=68a7b393&is=68a66213&hm=88666bc64bd33e752e320835bbf212569b3cb55027aea943083191eea7abc7a5&=&format=webp">
 </div>
 
 --------------------------------------

@@ -1,5 +1,5 @@
 <p align='center'>
-  <b>Hi 🤍, I'm Ana ''Whty'' </b><br>
+  <b>Hi 🤍, I'm Ana </b><br>
   
 
 

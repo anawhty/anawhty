@@ -18,7 +18,7 @@
 ```
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1407877456916123788/1407879229500031177/f5aabe9e2e6b3f9ee334f48b281a7992.jpg?ex=68a7b535&is=68a663b5&hm=959e2c408b7cd40f5442b9087b0d2e6e1a6fdd538fbf92812a069b13cd77f2a2&=&format=webp">
+  <img src="https://cdn.discordapp.com/attachments/1446728626065113089/1463782401363808256/e9bd6efd314217c3e6d8e051cf4213e0.jpg?ex=69731518&is=6971c398&hm=0d9dcbcdd1fad163e20d378731b331308cbc361cccfe260837cdac5295cbd961&animated=true">
 </div>
 
 --------------------------------------
@@ -34,9 +34,6 @@
         <img align="center" alt="Instagram" width="20px" src="https://simpleicons.vercel.app/instagram/6366f1" />
       </a>
     </td>
-    <td align="center">
-      <a href="https://twitch.com/anawhty">
-        <img align="center" alt="Twitch" width="20px" src="https://simpleicons.now.sh/twitch/6366f1" />
       </a>
     </td>
   </tr>

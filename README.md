@@ -18,7 +18,7 @@
 ```
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1463787102394257429/1463787159541645332/image.png?ex=69731986&is=6971c806&hm=f76327bacc6126dd950c044dbf8788d412f48fd06287bac8a749131dade33f1e&animated=true1463782401363808256/e9bd6efd314217c3e6d8e051cf4213e0.jpg?ex=69731518&is=6971c398&hm=0d9dcbcdd1fad163e20d378731b331308cbc361cccfe260837cdac5295cbd961&animated=true">
+  <img src="https://media.discordapp.net/attachments/1463787102394257429/1463787159541645332/image.png?ex=698ad486&is=69898306&hm=af571d0f709ac1a4020252aa904470584c1403d49645a96f051557b16610d6eb&animated=true">
 </div>
 
 --------------------------------------

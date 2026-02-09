@@ -6,7 +6,7 @@
 
 ```
 
-◦ Sigo em paz por que aquele que me proteje é maior que toda maldade
+◦ Computer science
 
 ```
 ```csharp

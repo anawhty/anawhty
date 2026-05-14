@@ -16,13 +16,10 @@
 • 🌟 Main languages: Back-End, JS, Java & Python.
 ```
 
-<div align="center">
-  <img src="https://media.discordapp.net/attachments/1463787102394257429/1463787159541645332/image.png?ex=698ad486&is=69898306&hm=af571d0f709ac1a4020252aa904470584c1403d49645a96f051557b16610d6eb&animated=true">
-</div>
 
 --------------------------------------
 										
- <p align="left"> Minhas Skills
+ <p align="left"> My Skills
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -35,11 +32,17 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
- <p align="left"> Ferramentas de desenvolvimento
+ <p align="left"> Development Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+--------------------------------------
+
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1465897625969758301/1504362033867522129/image.png?ex=6a06b5d2&is=6a056452&hm=c5e8371f4f8f6c6437b078f32bd6f22fb3d77c1eaba350497d287ca105b5d8cd&animated=true">
+</div>
 
 --------------------------------------
 

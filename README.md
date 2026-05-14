@@ -14,7 +14,6 @@
 • 🤖 Software Automation.
 • 👨🏻‍💻 Learning Web development.
 • 🌟 Main languages: Back-End, JS, Java & Python.
-• 📌 I only use github just to study.
 ```
 
 <div align="center">

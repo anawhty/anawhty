@@ -6,13 +6,12 @@
 
 ```
 
-◦ Computer science
+◦ Computer Science Student.
 
 ```
 ```csharp
 
 • 🤖 Automation & AI Developer.
-• 💻 Computer Science Student.
 • ⚡ Back-End and Full-Stack enthusiast.
 • 🛠️ Python • TypeScript • JavaScript • Java
 ```

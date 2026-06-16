@@ -11,9 +11,10 @@
 ```
 ```csharp
 
-• 🤖 Software Automation.
-• 👨🏻‍💻 Learning Web development.
-• 🌟 Main languages: Back-End, JS, Java & Python.
+• 🤖 Automation & AI Developer.
+• 💻 Computer Science Student.
+• ⚡ Back-End and Full-Stack enthusiast.
+• 🛠️ Python • TypeScript • JavaScript • Java
 ```
 
 

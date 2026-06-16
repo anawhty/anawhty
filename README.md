@@ -38,13 +38,6 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
---------------------------------------
-
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1465897625969758301/1504362033867522129/image.png?ex=6a06b5d2&is=6a056452&hm=c5e8371f4f8f6c6437b078f32bd6f22fb3d77c1eaba350497d287ca105b5d8cd&animated=true">
-</div>
-
---------------------------------------
 
 <table align="center">
   <tr>
